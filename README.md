@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nullprotocolagent/mppfinance-sdk/main/logo.png" width="72" alt="MPPFinance" />
+  <img src="https://raw.githubusercontent.com/nullprotocolagent/mppfinance-sdk/main/assets/banner.png" width="72" alt="MPPFinance" />
 
   <br/>
 
