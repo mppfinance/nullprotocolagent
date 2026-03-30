@@ -1,11 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mppfinance/mppfinance-sdk/main/assets/banner.png" width="72" alt="MPPFinance" />
 
-  <br/>
-
-  ```
-  building infrastructure for autonomous agents
-  ```
+<img src="https://raw.githubusercontent.com/mppfinance/MPPFinance/main/bannermpp.jpg" width="100%" alt="MPPFinance" />
 
 </div>
 
@@ -20,7 +15,7 @@
 Your agent pays via MPP → gets a virtual Visa card → spends anywhere.
 
 [![npm](https://img.shields.io/npm/v/mppfinance?color=white&label=npm%20install%20mppfinance&style=flat-square)](https://www.npmjs.com/package/mppfinance)
-[![GitHub](https://img.shields.io/github/stars/nullprotocolagent/mppfinance-sdk?color=white&style=flat-square)](https://github.com/nullprotocolagent/mppfinance-sdk)
+[![GitHub](https://img.shields.io/github/stars/mppfinance/mppfinance-sdk?color=white&style=flat-square)](https://github.com/mppfinance/mppfinance-sdk)
 
 </div>
 
@@ -43,9 +38,9 @@ const card = await MPPFinance.issue({
 
 | | |
 |---|---|
-| 🌐 **Site** | [mppfinance.xyz](https://v0-mppf-inance-landing-page.vercel.app) |
+| 🌐 **Site** | [mppfinance.xyz](https://mppfinance.xyz) |
 | 📦 **NPM** | [npmjs.com/package/mppfinance](https://www.npmjs.com/package/mppfinance) |
-| 🐙 **SDK** | [github.com/nullprotocolagent/mppfinance-sdk](https://github.com/nullprotocolagent/mppfinance-sdk) |
+| 🐙 **SDK** | [github.com/mppfinance/mppfinance-sdk](https://github.com/mppfinance/mppfinance-sdk) |
 | 🐦 **Twitter** | [@mppfinance](https://x.com/mppfinance) |
 
 <br/>
