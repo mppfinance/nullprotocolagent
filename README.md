@@ -14,8 +14,10 @@
 
 Your agent pays via MPP → gets a virtual Visa card → spends anywhere.
 
-[![npm](https://img.shields.io/npm/v/mppfinance?color=white&label=npm%20install%20mppfinance&style=flat-square)](https://www.npmjs.com/package/mppfinance)
-[![GitHub](https://img.shields.io/github/stars/mppfinance/mppfinance-sdk?color=white&style=flat-square)](https://github.com/mppfinance/mppfinance-sdk)
+[![Website](https://img.shields.io/badge/WEBSITE-mppfinance.xyz-black?style=for-the-badge&logo=safari&logoColor=white)](https://mppfinance.xyz)
+[![Twitter](https://img.shields.io/badge/TWITTER-%40MPPFinance-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mppfinance)
+[![npm](https://img.shields.io/npm/v/mppfinance?style=for-the-badge&label=NPM&color=black&logoColor=white&logo=npm)](https://www.npmjs.com/package/mppfinance)
+[![Stars](https://img.shields.io/github/stars/mppfinance/mppfinance-sdk?style=for-the-badge&label=STARS&color=black&logoColor=white)](https://github.com/mppfinance/mppfinance-sdk)
 
 </div>
 
